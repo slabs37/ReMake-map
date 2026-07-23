@@ -1,0 +1,1 @@
+bsor2unity.py "Hard.bsor" "VocalMan.anim" --name VocalMan --min-gap 0.1 --min-value-change 0.001 
