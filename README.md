@@ -12,6 +12,9 @@ This map contains assets from the games Beat Saber and Smash Drums which are sli
 
 # How to build
 You need to run Remapper twice, once with line 305 of src/main.ts set to 'true' and once with 'false'.
+
 That will create two outputs in the parent directory.
+
 You then need to copy Scripts/DiffSeparator.py to the parent directory, and then run it.
+
 That will create a folder ReMade with the final level.
